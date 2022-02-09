@@ -22,3 +22,4 @@ https://public.tableau.com/app/profile/julie.pyle2236/viz/ChildCareFacilities_16
 ## Future updates to markdown
 1. Add images 
 2. hyperlink the links
+3. explore how to web scrape the data from the .gov website, which will make the process more automated. 
