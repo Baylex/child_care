@@ -19,7 +19,7 @@ I imported the data into Tableau and created a Story board to explore the data s
 [Texas Child Care Facilities](https://public.tableau.com/app/profile/julie.pyle2236/viz/TexasChildCareFacilities/Story1)
 
 ## Future updates to markdown
-1. Add images 
-2. hyperlink the links
+1. Add images    
+~~2. hyperlink the links~~
 3. explore how to web scrape the data from the .gov website, which will make the process more automated. 
 4. Consider changing Y/N to Yes/No using python, so it looks nicer in a Tableau display. 
