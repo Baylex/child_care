@@ -10,12 +10,12 @@ I found the list of licensed child care facilities in Texas, all 13,0000+ facili
 
 
 ## Cleaning the data
-See the geoplot python file    
+See the [geoplot python file](https://github.com/Baylex/child_care/blob/main/geoplot.ipynb)      
 
-I did basic cleaning and converting of the data types using Python and the Pandas library.  What was challenging was obtaining the lat-longs for 13,000+ addresses.  Working with Tableau, it does not convert street addresses, and you are limited to only doing an analysis by city.  I ended up using Geocodio to convert the addresses to lat-longs. 
+I did basic cleaning and converting of the data types using Python and the Pandas library.  What was challenging was obtaining the lat-longs for 13,000+ addresses.  Working with Tableau, it does not convert street addresses, and you are limited to only doing an analysis by city.  I ended up using [Geocodio](https://www.geocod.io/upload/) to convert the addresses to lat-longs. 
 
 ## Tableau Chart
-I imported the data into Tableau and created a Story board to explore the data set. 
+I imported the data into Tableau and created a Story board to explore the data set.     
 [Texas Child Care Facilities](https://public.tableau.com/app/profile/julie.pyle2236/viz/TexasChildCareFacilities/Story1)
 
 ## Future updates to markdown
