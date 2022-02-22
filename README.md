@@ -6,7 +6,7 @@ When my son was born, I had to choose a child care facility very quickly after l
 
 I found the list of licensed child care facilities in Texas, all 13,0000+ facilities.  For me, I needed a facility that would take infants and was relatively close to my home and work. I also did not want a large facility, so I used the capacity as a filter.    
   
-Data Source: https://www.dfps.state.tx.us/Child_Care/Search_Texas_Child_Care/ppFacilitySearchDayCare.asp 
+[Data Source: Texas DFPS](https://www.dfps.state.tx.us/Child_Care/Search_Texas_Child_Care/ppFacilitySearchDayCare.asp)   
 
 
 ## Cleaning the data
@@ -16,8 +16,7 @@ I did basic cleaning and converting of the data types using Python and the Panda
 
 ## Tableau Chart
 I imported the data into Tableau and created a Story board to explore the data set. 
-https://public.tableau.com/app/profile/julie.pyle2236/viz/ChildCareFacilities_16443978541850/Story1?publish=yes
-
+[Texas Child Care Facilities](https://public.tableau.com/app/profile/julie.pyle2236/viz/TexasChildCareFacilities/Story1)
 
 ## Future updates to markdown
 1. Add images 
