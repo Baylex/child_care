@@ -1,4 +1,4 @@
-# child_care
+# Texas Child Care Facilities 
 Texas Child Care Facilities data mapped to make it easier for families to determine, which licensed facility works best for their needs. 
 
 ## Purpose
